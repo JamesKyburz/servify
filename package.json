@@ -1,0 +1,10 @@
+{
+  "name": "servify",
+  "version": "1.0.0",
+  "bin": {
+    "serve": "./bin.js"
+  },
+  "dependencies": {
+    "open": "0.0.5"
+  }
+}
